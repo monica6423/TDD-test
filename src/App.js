@@ -9,7 +9,6 @@ class App extends Component {
     return(
     <div className="App">
     <PersonList people={this.state.people}/>
-    testttt
     </div>
   );
   }
